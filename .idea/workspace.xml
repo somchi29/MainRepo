@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95a4b7e8-a78c-466a-861d-b887fe322137" name="Changes" comment="ChatProject">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/chisom/controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chisom/controller/ChatController.java" afterDir="false" />
-    </list>
+    <list default="true" id="95a4b7e8-a78c-466a-861d-b887fe322137" name="Changes" comment="ChatProject" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +149,7 @@
       <workItem from="1698222717950" duration="1942000" />
       <workItem from="1698762711271" duration="53173000" />
       <workItem from="1700472623875" duration="169000" />
-      <workItem from="1701078441008" duration="728000" />
+      <workItem from="1701078441008" duration="1688000" />
     </task>
     <task id="LOCAL-00001" summary="ChatProject">
       <option name="closed" value="true" />
@@ -178,13 +175,46 @@
       <option name="project" value="LOCAL" />
       <updated>1699034065849</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ChatProject">
+      <option name="closed" value="true" />
+      <created>1701079186124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701079186125</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ChatProject">
+      <option name="closed" value="true" />
+      <created>1701079215045</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701079215045</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ChatProject">
+      <option name="closed" value="true" />
+      <created>1701079229180</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701079229180</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ChatProject">
+      <option name="closed" value="true" />
+      <created>1701079449577</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701079449577</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="ChatProjects" />
     <MESSAGE value="ChatProject" />
     <option name="LAST_COMMIT_MESSAGE" value="ChatProject" />
   </component>
