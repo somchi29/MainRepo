@@ -16,10 +16,6 @@ import org.springframework.web.bind.annotation.*;
     private final ChatService chatServices;
     private final UserServices userServices;
 
-//    @GetMapping("/messages")
-//    public List<Message> getMessagesBySender(String sender) {
-//        return ChatService.getAllMessagesBySender(sender);
-//    }
 
     @PostMapping("/send")
     public Message sendMessage(@RequestBody Message chatMessage) {
@@ -33,8 +29,10 @@ import org.springframework.web.bind.annotation.*;
         }catch (AlreadyExistException alreadyExistException){
             return alreadyExistException.getMessage();
         }
+
+        }
+
     }
-}
 
 
 
